@@ -50,7 +50,7 @@ This project demonstrates my ability to:
 ## 🌍 Live Demo
 
 **Production:**  
-[https://cultural-ai-tutor-lomriqwqx-nithins7676s-projects.vercel.app](https://cultural-ai-tutor-lomriqwqx-nithins7676s-projects.vercel.app)
+[Link to my Project](https://cultural-ai-tutor.vercel.app)
 
 ---
 
